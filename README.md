@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d9c5c9e-b2b5-482b-b1a3-c599e656aecc/deploy-status)](https://app.netlify.com/sites/romantic-nightingale-89a510/deploys)
+
 # Contentful Gatsby Starter Blog
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com). This is a simplified version of the [Gatsby Contentful Starter](https://github.com/contentful-userland/gatsby-contentful-starter) which is maintained by our Community.

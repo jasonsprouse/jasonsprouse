@@ -1,9 +1,9 @@
 {
   "name": "jason-sprouse-blog",
-  "description": "Jason Sprouse",
+  "description": "Jason Sprouse Blog",
   "private": true,
   "version": "0.0.1",
-  "author": "Contentful <opensource@contentful.com>",
+  "author": "Jason Sprouse <jason.a.sprouse@gmail.com>",
   "bugs": {
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
@@ -33,7 +33,6 @@
     "dev": "gatsby develop",
     "build": "gatsby build",
     "heroku-postbuild": "gatsby build",
-    "serve": "gatsby serve",
-    "setup": "npm install --no-save contentful-import yargs-parser axios chalk && node ./setup.js"
+    "serve": "gatsby serve"
   }
 }
